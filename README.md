@@ -5,6 +5,7 @@ uma API REST de consulta de endereço e cálculo de frete para um determinado CE
 url: POST v1/consulta-endereco
 
 REQUEST
+
 {
 
 "cep": "01001000"
