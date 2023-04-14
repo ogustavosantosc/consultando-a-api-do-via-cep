@@ -13,6 +13,7 @@ REQUEST
 }
 
 RESPONSE HTTP 200
+
 }
 
 "cep": "01001-000",
